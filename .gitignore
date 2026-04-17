@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pyc
+LAB\Week 01\Dog_Breed_Classification\Sample_Generated_Images
